@@ -6,3 +6,10 @@
     margin: 0;
     box-sizing: border-box;
 }
+/*---------------
+   BUTTONS
+---------------*/
+.btn {
+    padding: .3125rem .625rem;
+
+}
