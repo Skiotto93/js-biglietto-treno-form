@@ -11,5 +11,31 @@
 ---------------*/
 .btn {
     padding: .3125rem .625rem;
+    background-color: lightgray;
+    color: #b91450;
 
+}
+/*---------------
+   BODY
+---------------*/
+.container {
+    max-width: 62.5rem;
+    margin: auto;
+    text-align: center;
+    background-color: #b91450;
+    color: #fff;
+}
+.d-flex {
+    display: flex;
+
+}
+.small-container {
+    background-color: #fff;
+    color: #b91450;
+    display: flex;
+    justify-content: center;
+    padding: 50px 0;
+    max-width: 800px;
+    margin-left: 100px;
+    border-radius: 10px;;
 }
